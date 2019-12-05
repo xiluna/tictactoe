@@ -1,8 +1,14 @@
+let currentPlayerPosistion = 'O';
+let numberOfTurns = 0;
+let endGame = false;
 
+function playerPosistion() {
+    
+}
 
-
-
-
+function performLogic(buttonld, tileld) {
+    $(buttonld).hide();
+}
 
 
 $("#button1").click(function() {
